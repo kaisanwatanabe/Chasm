@@ -1,0 +1,55 @@
+html{
+    background: #00011D;
+}
+
+body{
+    font-family: 'EB Garamond', serif;
+    color: #E0E9FF;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 50px;
+    line-height: 84px;
+    text-align: right;
+}
+
+a:hover{
+    cursor: pointer;
+}
+
+#texttoinject{
+    position: relative;
+    padding-top: 0.25em;
+    padding-left: 18em;
+    padding-right: 0.75em;
+}
+
+img{
+    position: absolute;
+    width: 610px;
+    height: 470px;
+    left: 57px;
+    top: 72px;
+}
+
+a{
+    position: absolute;
+    text-align: left;
+    width: 516px;
+    height: 84px;
+    left: 57px;
+    top: 837px;
+    cursor: pointer;
+    text-decoration: none;
+}
+
+a:visited{
+    color: #E0E9FF;
+}
+
+a:hover{
+    color:gold;
+}
+
+a:active{
+    color: #90affd;
+}

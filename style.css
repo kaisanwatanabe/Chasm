@@ -1,0 +1,74 @@
+html{
+    background: #00011D;
+}
+
+body{
+    font-family: 'EB Garamond', serif;
+    color: #E0E9FF;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 64px;
+    line-height: 84px;
+    text-align: center;
+
+    padding-top: 2em;
+}
+
+a{
+    cursor: pointer;
+    text-decoration: none;
+}
+
+a:visited{
+    color: #E0E9FF;
+}
+
+a:hover{
+    color:gold;
+}
+
+a:active{
+    color: #90affd;
+}
+
+a:hover{
+    color:gold;
+}
+
+fieldset{
+    border: 0px;
+}
+
+#question{
+    font-family: 'EB Garamond', serif;
+    text-align: center;
+    font-size: 48px;
+    color: white;
+    border-style: none;
+    border: 0.2em;
+    border-radius: 0.25em;
+
+    background: #191a30;
+
+    height:1em;
+    
+    /* position: static */
+}
+
+#submitbutton{
+    font-family: 'EB Garamond', serif;
+    color: #E0E9FF;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 64px;
+    line-height: 84px;
+
+    background: none;
+    border: none;
+    border-radius: 0.25em;
+}
+
+#submitbutton:hover{
+    color: gold;
+    cursor: pointer;
+}
